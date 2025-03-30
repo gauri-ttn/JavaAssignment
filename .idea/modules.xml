@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Beyond_Java_8_1/Beyond_Java_8_1.iml" filepath="$PROJECT_DIR$/Beyond_Java_8_1/Beyond_Java_8_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Beyond_Java_8_2/Beyond_Java_8_2.iml" filepath="$PROJECT_DIR$/Beyond_Java_8_2/Beyond_Java_8_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction_to_Java_1/Introduction_to_Java_1.iml" filepath="$PROJECT_DIR$/Introduction_to_Java_1/Introduction_to_Java_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction_to_Java_2/Introduction_to_Java_2.iml" filepath="$PROJECT_DIR$/Introduction_to_Java_2/Introduction_to_Java_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaAssigment.iml" filepath="$PROJECT_DIR$/JavaAssigment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_8_Features_1/Java_8_Features_1.iml" filepath="$PROJECT_DIR$/Java_8_Features_1/Java_8_Features_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_8_Features_2/Java_8_Features_2.iml" filepath="$PROJECT_DIR$/Java_8_Features_2/Java_8_Features_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreading_1/Multithreading_1.iml" filepath="$PROJECT_DIR$/Multithreading_1/Multithreading_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreading_2/Multithreading_2.iml" filepath="$PROJECT_DIR$/Multithreading_2/Multithreading_2.iml" />
     </modules>
   </component>
 </project>
